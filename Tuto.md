@@ -9,15 +9,18 @@ Installer la vm sans decocher la case
 ![vm](https://github.com/tijital00/depot-image-tuto/blob/main/1.png)
 
 ```2-Partitionner```
+
 Suivre ce schéma de partitionnement
 ![part](https://github.com/tijital00/depot-image-tuto/blob/main/2.png)
 
 ```3-Passer en azerty```
+
 Passer en azerty (plus simple)
 ![azerty](https://github.com/tijital00/depot-image-tuto/blob/main/3.png)
 
 ```4-Fixer l'ip```
-Fixer l'ip 
+
+Fixer l'ip
 ![ip](https://github.com/tijital00/depot-image-tuto/blob/main/4.0.png)
 
 taper 8
