@@ -11,6 +11,7 @@ Installer la vm sans decocher la case
 ```2-Partitionner```
 
 Suivre ce schéma de partitionnement
+
 ![part](https://github.com/tijital00/depot-image-tuto/blob/main/2.png)
 
 ```3-Passer en azerty```
