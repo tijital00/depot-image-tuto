@@ -9,7 +9,7 @@ Installer la vm sans decocher la case
 ![vm](https://github.com/tijital00/depot-image-tuto/blob/main/1.png)
 
 ```2-Partitionner```
-Suivre ce schéma de paertitionnement
+Suivre ce schéma de partitionnement
 ![part](https://github.com/tijital00/depot-image-tuto/blob/main/2.png)
 
 ```3-Passer en azerty```
@@ -19,12 +19,16 @@ Passer en azerty (plus simple)
 ```4-Fixer l'ip```
 Fixer l'ip 
 ![ip](https://github.com/tijital00/depot-image-tuto/blob/main/4.0.png)
+
 taper 8
 ![ip](https://github.com/tijital00/depot-image-tuto/blob/main/4.1.png)
+
 choisir la bonne carte
 ![ip](https://github.com/tijital00/depot-image-tuto/blob/main/4.2.png)
+
 taper 1
 ![ip](https://github.com/tijital00/depot-image-tuto/blob/main/4.3.png)
+
 enregistrer une ip avec une passerelle et un masque
 
 ```5-Installation d'active directory```
