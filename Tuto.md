@@ -50,10 +50,19 @@ Creer votre foret
 
 ![AD](https://github.com/tijital00/depot-image-tuto/blob/main/5.2.png)
 
+indiquer un mot de passe puis ecrire T
+
+![AD](https://github.com/tijital00/depot-image-tuto/blob/main/5.3.png)
+
 # C'est la fin de ce tuto
 
 
 
 
-mot de passe puis ecrire T
-![AD](https://github.com/tijital00/depot-image-tuto/blob/main/5.3.png)
+
+
+
+
+
+
+
