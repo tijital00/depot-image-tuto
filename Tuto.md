@@ -20,7 +20,6 @@ Passer en azerty (plus simple)
 
 ```4-Fixer l'ip```
 
-Fixer l'ip
 ![ip](https://github.com/tijital00/depot-image-tuto/blob/main/4.0.png)
 
 taper 8
