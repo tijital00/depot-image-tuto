@@ -23,12 +23,15 @@ Passer en azerty (plus simple)
 ![ip](https://github.com/tijital00/depot-image-tuto/blob/main/4.0.png)
 
 taper 8
+
 ![ip](https://github.com/tijital00/depot-image-tuto/blob/main/4.1.png)
 
 choisir la bonne carte
+
 ![ip](https://github.com/tijital00/depot-image-tuto/blob/main/4.2.png)
 
 taper 1
+
 ![ip](https://github.com/tijital00/depot-image-tuto/blob/main/4.3.png)
 
 enregistrer une ip avec une passerelle et un masque
