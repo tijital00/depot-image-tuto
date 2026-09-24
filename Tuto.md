@@ -1,5 +1,7 @@
 <!--marp: true-->
 
+# Passer CD en mode console
+
 ```1-installer la vm```
 
 Installer la vm sans decocher la case
