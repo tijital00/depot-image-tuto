@@ -1,6 +1,4 @@
----
-marp: true
----
+<!--marp: true-->
 
 ```1-installer la vm```
 
